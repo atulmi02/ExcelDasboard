@@ -8,6 +8,12 @@ An **interactive Excel dashboard** created to analyze **Bike Sales Performance**
 
 ---
 
+## 🖼️ Dashboard Preview 
+
+![BikeSalesDashboard](./data/BikeSalesDashboard.jpg)
+
+---
+
 ## 📊 Key Insights
 -  Average income analysis of bike owners, classified by gender.  
 -  Commuter behavior based on distance covered by bike purchasers.  
@@ -32,12 +38,6 @@ An **interactive Excel dashboard** created to analyze **Bike Sales Performance**
 -  **Pivot Tables** → Summarized bike sales performance.  
 -  **Bar & Line Charts** → Trends and comparative analysis.  
 -  **Slicers** → Interactive filtering for dynamic insights.  
-
----
-
-## 🖼️ Dashboard Preview 
-
-![BikeSalesDashboard](./data/BikeSalesDashboard.jpg)
 
 ---
 

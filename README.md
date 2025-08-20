@@ -37,12 +37,12 @@ An **interactive Excel dashboard** created to analyze **Bike Sales Performance**
 
 ## 🖼️ Dashboard Preview 
 
-![BikeSalesDashboard](Bike Sales Dashboard.jpg)
+![BikeSalesDashboard](./Bike Sales Dashboard.jpg)
 
 ---
 
 ##  How to Use
-1. Download the file: [`ExcelProjectDataset.xlsx`](./ExcelProjectDataset.xlsx).  
+1. Download the file: [`ExcelProjectDataset.xlsx`](./Excel Project Dataset.xlsx).  
 2. Open in **MS Excel (2016 or later)**.  
 3. Use slicers and filters to explore insights interactively.  
 

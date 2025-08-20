@@ -1,8 +1,8 @@
 # Bike Sales Performance Dashboard | MS-Excel
 It Is an interactive Ms-Excel dashborad created to analyze Bike Sales Performance based on following observation :-
-1. Owner's Avg Income Basis whose enquiry turned in to Sales classified on Gender.
-2. Count Of Commuter on Distance Covered who purchased the bike.
-3. Age wise data who purchased the bike.
+1. Owner's Avg Income whose enquiry turned in to Sales.
+2. Per day distance covered by commuter who purchased the bike.
+3. Age bracket data who purchased the bike.
 
 ---
 

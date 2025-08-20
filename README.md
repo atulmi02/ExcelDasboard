@@ -37,7 +37,7 @@ An **interactive Excel dashboard** created to analyze **Bike Sales Performance**
 
 ## 🖼️ Dashboard Preview 
 
-![BikeSalesDashboard_image](Bike Sales Dashboard.jpg)
+![BikeSalesDashboard](Bike Sales Dashboard.jpg)
 
 ---
 

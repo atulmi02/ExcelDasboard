@@ -9,9 +9,9 @@ An **interactive Excel dashboard** created to analyze **Bike Sales Performance**
 ---
 
 ## 📊 Key Insights
-- 📌 Average income analysis of bike owners, classified by gender.  
-- 📌 Commuter behavior based on distance covered by bike purchasers.  
-- 📌 Age-group segmentation to identify health-conscious demographics.  
+-  Average income analysis of bike owners, classified by gender.  
+-  Commuter behavior based on distance covered by bike purchasers.  
+-  Age-group segmentation to identify health-conscious demographics.  
 
 ---
 
@@ -29,9 +29,9 @@ An **interactive Excel dashboard** created to analyze **Bike Sales Performance**
 ---
 
 ## 📈 Visualization & Features
-- ✅ **Pivot Tables** → Summarized bike sales performance.  
-- ✅ **Bar & Line Charts** → Trends and comparative analysis.  
-- ✅ **Slicers** → Interactive filtering for dynamic insights.  
+-  **Pivot Tables** → Summarized bike sales performance.  
+-  **Bar & Line Charts** → Trends and comparative analysis.  
+-  **Slicers** → Interactive filtering for dynamic insights.  
 
 ---
 
@@ -40,7 +40,7 @@ An **interactive Excel dashboard** created to analyze **Bike Sales Performance**
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Download the file: [`ExcelProjectDataset.xlsx`](./ExcelProjectDataset.xlsx).  
 2. Open in **MS Excel (2016 or later)**.  
 3. Use slicers and filters to explore insights interactively.  

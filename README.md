@@ -13,7 +13,7 @@ It Is an interactive Ms-Excel dashborad created to analyze Bike Sales Performanc
 ## Approach to convert raw data to useful information
 1. The very first approach to dataset was not to disturb its original raw content, hence a duplicate working version was created to start with.
 2. Next, the task was to Remove Duplicates from the data which was done using remove duplicates feature of Excel.
-3. The Column Names were renamed for effective reporting and unnecessary columns were removed such as address keeping the city,state,province,country and pincode data for analysis
+3. The Column Names were renamed for effective reporting and unnecessary columns were removed such as address keeping the city, state, province, country and pincode data for analysis
 4. Shorthand abbrevations like Gender - M changed to Male, F to Female.
 5. Converted currency values into numeric format for analysis.
 6. Age values were categorised into brackets(Adolescent, Middle-Aged, Senior) to better analyze health-conscious behaviour.

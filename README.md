@@ -1,9 +1,5 @@
 # 🚴 Bike Sales Performance Dashboard | MS Excel  
 
-![Excel](https://img.shields.io/badge/Tool-MS%20Excel-217346?logo=microsoft-excel&logoColor=white)  
-![Status](https://img.shields.io/badge/Project%20Type-Dashboard-brightgreen)  
-![Data](https://img.shields.io/badge/Data-Cleaned%20%26%20Analyzed-blue)  
-
 An **interactive Excel dashboard** created to analyze **Bike Sales Performance**, uncover insights, and support data-driven decision making.  
 
 ---
